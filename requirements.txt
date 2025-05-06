@@ -2,3 +2,5 @@ flask
 nltk
 torch
 requests
+numpy
+scikit-learn
